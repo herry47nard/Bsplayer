@@ -219,4 +219,4 @@ BSplayer is a fully free version with all features and updates included. Enjoy u
 Start enjoying your media like never before with **BSplayer**—download now and experience the difference!
 
 ---
-**Last updated:** 2026-09-25 07:14:19 UTC
+**Last updated:** 2026-09-25 13:19:47 UTC
